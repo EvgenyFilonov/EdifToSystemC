@@ -1,0 +1,87 @@
+( edif INVERTER
+    (edifVersion 2 0 0)
+    (edifLevel 0)
+    (keywordMap  
+        (keywordLevel 0)
+    )
+    (status  
+        (written  
+            (timestamp 2017 6 15 17 17 13)
+            (author "Unknown")
+            (program "Aldec_EDIF_generator" 
+                (version "1.10")
+            )
+        )
+    )
+    (library VIRTEX 
+        (edifLevel 0)
+        (technology  
+            (numberDefinition )
+        )
+        (cell inv 
+            (cellType generic)
+            (view net 
+                (viewType netlist)
+                (interface  
+                    (port I 
+                        (direction INPUT)
+                    )
+                    (port O 
+                        (direction OUTPUT)
+                    )
+                )
+            )
+        )
+    )
+    (library DESIGN1 
+        (edifLevel 0)
+        (technology  
+            (numberDefinition )
+        )
+        (cell INVERTER 
+            (cellType generic)
+            (view net 
+                (viewType netlist)
+                (interface  
+                    (port A 
+                        (direction INPUT)
+                    )
+                    (port B 
+                        (direction OUTPUT)
+                    )
+                )
+                (contents  
+                    (instance U1 
+                        (viewRef net 
+                            (cellRef inv 
+                                (libraryRef VIRTEX)
+                            )
+                        )
+                    )
+                    (net A 
+                        (joined  
+                            (portRef I 
+                                (instanceRef U1)
+                            )
+                            (portRef A)
+                        )
+                    )
+                    (net B 
+                        (joined  
+                            (portRef O 
+                                (instanceRef U1)
+                            )
+                            (portRef B)
+                        )
+                    )
+                )
+            )
+        )
+    )
+    (design INVERTER 
+        (cellRef INVERTER 
+            (libraryRef DESIGN1)
+        )
+    )
+)
+

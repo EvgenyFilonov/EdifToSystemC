@@ -1,0 +1,244 @@
+( edif EXOR
+    (edifVersion 2 0 0)
+    (edifLevel 0)
+    (keywordMap  
+        (keywordLevel 0)
+    )
+    (status  
+        (written  
+            (timestamp 2017 4 15 14 7 0)
+            (author "Unknown")
+            (program "Aldec_EDIF_generator" 
+                (version "1.10")
+            )
+        )
+    )
+    (library VIRTEX 
+        (edifLevel 0)
+        (technology  
+            (numberDefinition )
+        )
+        (cell nand2 
+            (cellType generic)
+            (view net 
+                (viewType netlist)
+                (interface  
+                    (port I0 
+                        (direction INPUT)
+                    )
+                    (port I1 
+                        (direction INPUT)
+                    )
+                    (port O 
+                        (direction OUTPUT)
+                    )
+                )
+            )
+        )
+		(cell nand2 
+            (cellType generic)
+            (view net 
+                (viewType netlist)
+                (interface  
+                    (port I0 
+                        (direction INPUT)
+                    )
+                    (port I1 
+                        (direction INPUT)
+                    )
+                    (port O 
+                        (direction OUTPUT)
+                    )
+                )
+            )
+        )
+		(cell nand2 
+            (cellType generic)
+            (view net 
+                (viewType netlist)
+                (interface  
+                    (port I0 
+                        (direction INPUT)
+                    )
+                    (port I1 
+                        (direction INPUT)
+                    )
+                    (port O 
+                        (direction OUTPUT)
+                    )
+                )
+            )
+        )
+		(cell nand2 
+            (cellType generic)
+            (view net 
+                (viewType netlist)
+                (interface  
+                    (port I0 
+                        (direction INPUT)
+                    )
+                    (port I1 
+                        (direction INPUT)
+                    )
+                    (port O 
+                        (direction OUTPUT)
+                    )
+                )
+            )
+        )
+		(cell nand2 
+            (cellType generic)
+            (view net 
+                (viewType netlist)
+                (interface  
+                    (port I0 
+                        (direction INPUT)
+                    )
+                    (port I1 
+                        (direction INPUT)
+                    )
+                    (port O 
+                        (direction OUTPUT)
+                    )
+                )
+            )
+        )
+		(cell nand2 
+            (cellType generic)
+            (view net 
+                (viewType netlist)
+                (interface  
+                    (port I0 
+                        (direction INPUT)
+                    )
+                    (port I1 
+                        (direction INPUT)
+                    )
+                    (port O 
+                        (direction OUTPUT)
+                    )
+                )
+            )
+        )
+		(cell nand2 
+            (cellType generic)
+            (view net 
+                (viewType netlist)
+                (interface  
+                    (port I0 
+                        (direction INPUT)
+                    )
+                    (port I1 
+                        (direction INPUT)
+                    )
+                    (port O 
+                        (direction OUTPUT)
+                    )
+                )
+            )
+        )
+		(cell nand2 
+            (cellType generic)
+            (view net 
+                (viewType netlist)
+                (interface  
+                    (port I0 
+                        (direction INPUT)
+                    )
+                    (port I1 
+                        (direction INPUT)
+                    )
+                    (port O 
+                        (direction OUTPUT)
+                    )
+                )
+            )
+        )
+		(cell nand2 
+            (cellType generic)
+            (view net 
+                (viewType netlist)
+                (interface  
+                    (port I0 
+                        (direction INPUT)
+                    )
+                    (port I1 
+                        (direction INPUT)
+                    )
+                    (port O 
+                        (direction OUTPUT)
+                    )
+                )
+            )
+        )
+		(cell nand2 
+            (cellType generic)
+            (view net 
+                (viewType netlist)
+                (interface  
+                    (port I0 
+                        (direction INPUT)
+                    )
+                    (port I1 
+                        (direction INPUT)
+                    )
+                    (port O 
+                        (direction OUTPUT)
+                    )
+                )
+            )
+        )
+				(cell nand2 
+            (cellType generic)
+            (view net 
+                (viewType netlist)
+                (interface  
+                    (port I0 
+                        (direction INPUT)
+                    )
+                    (port I1 
+                        (direction INPUT)
+                    )
+                    (port O 
+                        (direction OUTPUT)
+                    )
+                )
+            )
+        )
+		(cell nand2 
+            (cellType generic)
+            (view net 
+                (viewType netlist)
+                (interface  
+                    (port I0 
+                        (direction INPUT)
+                    )
+                    (port I1 
+                        (direction INPUT)
+                    )
+                    (port O 
+                        (direction OUTPUT)
+                    )
+                )
+            )
+        )
+		(cell nand2 
+            (cellType generic)
+            (view net 
+                (viewType netlist)
+                (interface  
+                    (port I0 
+                        (direction INPUT)
+                    )
+                    (port I1 
+                        (direction INPUT)
+                    )
+                    (port O 
+                        (direction OUTPUT)
+                    )
+                )
+            )
+        )
+    )
+)
+

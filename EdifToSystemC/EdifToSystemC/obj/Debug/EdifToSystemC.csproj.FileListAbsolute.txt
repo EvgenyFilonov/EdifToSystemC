@@ -1,0 +1,9 @@
+D:\Документы Евгений\Документы\МЭИ\ВКР\EdifToSystemC\EdifToSystemC\bin\Debug\EdifToSystemC.exe.config
+D:\Документы Евгений\Документы\МЭИ\ВКР\EdifToSystemC\EdifToSystemC\bin\Debug\EdifToSystemC.exe
+D:\Документы Евгений\Документы\МЭИ\ВКР\EdifToSystemC\EdifToSystemC\bin\Debug\EdifToSystemC.pdb
+D:\Документы Евгений\Документы\МЭИ\ВКР\EdifToSystemC\EdifToSystemC\obj\Debug\EdifToSystemC.csprojResolveAssemblyReference.cache
+D:\Документы Евгений\Документы\МЭИ\ВКР\EdifToSystemC\EdifToSystemC\obj\Debug\EdifToSystemC.MainForm.resources
+D:\Документы Евгений\Документы\МЭИ\ВКР\EdifToSystemC\EdifToSystemC\obj\Debug\EdifToSystemC.Properties.Resources.resources
+D:\Документы Евгений\Документы\МЭИ\ВКР\EdifToSystemC\EdifToSystemC\obj\Debug\EdifToSystemC.csproj.GenerateResource.Cache
+D:\Документы Евгений\Документы\МЭИ\ВКР\EdifToSystemC\EdifToSystemC\obj\Debug\EdifToSystemC.exe
+D:\Документы Евгений\Документы\МЭИ\ВКР\EdifToSystemC\EdifToSystemC\obj\Debug\EdifToSystemC.pdb
